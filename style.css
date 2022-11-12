@@ -7,7 +7,7 @@ body
 }
 
 
-.background{
+.background {
     background-image: url(background.jpg);
     background-size: cover;
     background-position: center;
@@ -25,7 +25,7 @@ nav{
     padding-right: 8%;
 }
 
-.logo{
+.logo {
     color: #fff;
     font-size: 35px;
     cursor: pointer;
@@ -35,13 +35,13 @@ span{
     color: #940915;
 }
 
-nav ul li{
+nav ul li {
     list-style-type: none;
     display: inline-block;
     padding: 10px  25px;
 }
 
-nav ul li a{
+nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
